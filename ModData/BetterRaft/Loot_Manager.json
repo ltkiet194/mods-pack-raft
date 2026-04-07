@@ -1,0 +1,57 @@
+{
+    "Pickup_Floating_Barrel": {
+        "min": 4,
+        "max": 6,
+        "replace": false,
+        "items": {
+            "Empty_Bottle": 1, "Empty_Cup": 1, "Clay_Bowl": 2, "Drinking_Glass": 1, "Bucket": 3, "Nail": 4,
+            "Seed_Mango": 1, "Seed_Pine": 1, "Seed_Birch": 1, "Seed_Pineapple": 1, "Seed_Watermelon": 1,
+            "Seed_Strawberry": 1, "Seed_Banana": 1, "Seed_Palm": 1, "Healing_Salve": 2, "Good_Healing_Salve": 1
+        }
+    },
+    "Pickup_Floating_Box": {
+        "min": 5, "max": 9, "replace": false,
+        "items": {
+            "Sand": 20, "Clay": 20, "Vine_Goo": 10, "Empty_Bottle": 10, "Empty_Cup": 20, "Clay_Bowl": 40,
+            "Drinking_Glass": 40, "Bucket": 40, "Bolt": 25, "Nail": 25, "Seed_Mango": 10, "Seed_Pine": 10,
+            "Seed_Birch": 10, "Seed_Pineapple": 10, "Seed_Watermelon": 10, "Seed_Strawberry": 10,
+            "Seed_Banana": 10, "Seed_Palm": 10, "Healing_Salve": 15, "Good_Healing_Salve": 5
+        }
+    },
+    "Pickup_Landmark_LandmarkCrateRaft": {
+        "min": 8, "max": 12, "replace": false,
+        "items": {
+            "Sand": 10, "Clay": 10, "Glass": 10, "Brick_Dry": 5, "MetalOre": 5, "MetalIngot": 4, "CopperOre": 5,
+            "CopperIngot": 4, "Titanium_Ore": 1, "TitaniumIngot": 1, "VineGoo": 40, "SeaVine": 20, "Feather": 30,
+            "Leather": 30, "Wool": 20, "Dirt": 40, "ExplosiveGoo": 15, "ExplosivePowder": 5, "Circuit_Board": 10,
+            "Battery": 10, "BioFuel": 15, "Bolt": 25, "Hinge": 25, "Honeycomb": 15, "Jar_Honey": 10,
+            "TradeToken": 5, "Trashcube": 20, "Axe": 25, "Stone_Axe": 25, "Axe_Titanium": 3, "Hammer": 25,
+            "Hook_Plastic": 25, "Hook_Scrap": 15, "Hook_Titanium": 3, "Spear_Scrap": 15, "Spear_Plank": 15,
+            "Arrow_Stone": 25, "Metal_Arrow": 10, "Titanium_Arrow": 3, "Fishing_Rod": 25, "Metal_Fishing_Rod": 10,
+            "Paddle": 25, "PaintBrush": 15, "Shears": 15, "Shovel": 15, "SweepNet": 10, "NetCanister": 5,
+            "NetGun": 3, "SharkBait": 15, "Machete": 10, "Metal_Detector": 5, "Sword_Titanium": 1,
+            "ThrowableAnchor": 5, "Bow": 10, "Binoculars": 10, "Compass": 10, "Backpack": 10,
+            "Equipment_LeatherChest": 10, "Equipment_LeatherHelmet": 10, "Equipment_LeatherLegs": 10, "Flippers": 10,
+            "Oxygen_Bottle": 10, "Head_Lamp": 10, "Helmet": 5, "Body_Armor": 5, "Greaves": 5, "Hat_Captain": 5,
+            "Hat_Chef": 5, "Hat_Construction": 5, "Hat_Dev": 3, "Hat_Diving": 5, "Hat_Fishing": 5,
+            "Hat_Glasses_Aviator": 3, "Hat_Glasses_Disguise": 3, "Hat_Mayor": 3, "Hat_Pilot": 3, "Hat_Pirate": 3,
+            "Hat_Sailor": 3, "Hat_Tiki": 3, "Canteen_Empty": 15, "PlasticBottle_Empty": 15, "PlasticCup_Empty": 15,
+            "Bucket": 15, "Claybowl_Empty": 15, "DrinkingGlass": 15, "HealingSalve_Good": 5, "FishingBait_Simple": 15,
+            "FishingBait_Advanced": 10, "FishingBait_Expert": 5, "Blueprint_Battery": 10, "Blueprint_Headlight": 10,
+            "Blueprint_Machete": 10, "Blueprint_Engine": 10, "Blueprint_Steering_Wheel": 10, "Blueprint_Recycler": 10,
+            "Blueprint_Electric_Purifier": 10, "Blueprint_Electric_Grill": 10, "Blueprint_Electric_Smelter": 10,
+            "Blueprint_Titanium_Tools": 5, "Blueprint_Large_Backpack": 5, "Blueprint_Zipline": 5,
+            "Blueprint_Wind_Turbine": 5, "Blueprint_Solar_Panel": 5, "Blueprint_Electric_Zipline_Tool": 3,
+            "Blueprint_Zipline_Tool": 5, "Blueprint_Large_Storage": 5, "Blueprint_Water_Pipe": 5,
+            "Blueprint_Fuel_Pipe": 5, "Blueprint_Metal_Detector": 5, "Blueprint_Fuel_Tank": 5, "Blueprint_Firework": 5,
+            "Blueprint_Engine_Controls": 5, "Blueprint_Advanced_Small_Crop_Plot": 5, "Blueprint_Biofuel_Refiner": 5,
+            "Blueprint_Battery_Charger": 5, "Blueprint_Advanced_Head_Light": 3, "Blueprint_Advanced_Medium_Crop_Plot": 3,
+            "Blueprint_Advanced_Large_Crop_Plot": 3, "Blueprint_Canteen": 5, "Blueprint_Advanced_Battery": 3,
+            "Blueprint_Advanced_Stationary_Anchor": 3, "Blueprint_Antenna": 3, "Blueprint_Biofuel_Extractor": 3,
+            "Blueprint_Biofuel_Extractor_Advanced": 1, "Blueprint_DetailPlank": 5, "Blueprint_MotorWheel": 3,
+            "Blueprint_Reciever": 3, "Blueprint_WaterTank": 3, "Blueprint_ZiplineBase": 3, "SilverAlgae": 15,
+            "Cassette_Classical": 5, "Cassette_EDM": 5, "Cassette_Elevator": 5, "Cassette_Pop": 5,
+            "Cassette_Rock": 5, "Cassette_TradingPost": 5
+        }
+    }
+}
